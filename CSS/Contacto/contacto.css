@@ -60,9 +60,6 @@ section{
     section{
         margin-top:5%;
     }
-    footer{
-        margin-top:5%;
-    }
 }
 @media(min-width:1000px){
     section{
@@ -71,9 +68,6 @@ section{
 }
 @media(min-width:1150px){
     section{
-        margin-top:2.5%;
-    }
-    footer{
         margin-top:2.5%;
     }
     .contacto-redes-iconos{

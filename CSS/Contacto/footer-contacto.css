@@ -8,7 +8,7 @@ footer{
     width: 100%;
     color: white;
     }
-.footer-informacion-contenido{
+.footer-inaaaaformacion-contenido{
     font-size:1.5rem;
 }
 .redes-sociales-titulo{
@@ -29,6 +29,7 @@ footer{
     footer{
         grid-template-columns: 50 50 ;
         text-align: center;
+        margin-top:2.5%;
     }
     .redes-sociales-titulo{
         font-size: 1rem;
@@ -42,6 +43,7 @@ footer{
     footer{
         flex-direction: column;
         gap: 5vh;
+        margin-top:5%;
     }
     .footer-informacion{
         margin-bottom: 5%;
